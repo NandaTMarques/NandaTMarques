@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+#### My Linkedin: https://www.linkedin.com/in/fernandadesenvolvedoraweb/
+#### My curriculum: https://drive.google.com/file/d/1WQoi78MZwMMuVZgyEzWwMchPYJa94k3E/view?usp=sharing
+#### My Portfolio: https://fernandatmarques.herokuapp.com/
+
 ### I'm Fernanda, 
 <p align="justify"> I'm in a career transition, I'm studying Software Engineering and I'm a student on the Web Development course at Trybe. 
 
@@ -15,6 +20,4 @@ Every day I want to impact people more with my work, my welcoming way of being, 
 Thanks for your visit, follow me on Linkedin. 
 See you later.
 
-#### My Linkedin: https://www.linkedin.com/in/fernandadesenvolvedoraweb/
-#### My curriculum: https://drive.google.com/file/d/1WQoi78MZwMMuVZgyEzWwMchPYJa94k3E/view?usp=sharing
 
