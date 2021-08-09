@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-#### My Portfolio: https://fernandatmarques.herokuapp.com/
-#### My Linkedin: https://www.linkedin.com/in/fernandadesenvolvedoraweb/
-#### My curriculum: https://drive.google.com/file/d/1WQoi78MZwMMuVZgyEzWwMchPYJa94k3E/view?usp=sharing
-
-### I'm Fernanda, 
+### I'm Fernanda, Full-stack Developer, 
 <p align="justify"> I'm in a career transition, I'm studying Software Engineering and I'm a student on the Web Development course at Trybe. 
 
   I am communicative. I am resilient. I always try to empathize. I like challenges. I like to create things from scratch and solve problems. 
@@ -19,5 +15,8 @@ Every day I want to impact people more with my work, my welcoming way of being, 
   I finally found out what makes my eyes shine, what I like to do. Today I know that I am on the path that I always wanted to be. 
 Thanks for your visit, follow me on Linkedin. 
 See you later.
+
+#### My Portfolio: https://fernandatmarques.herokuapp.com/
+#### My curriculum: https://drive.google.com/file/d/1WQoi78MZwMMuVZgyEzWwMchPYJa94k3E/view?usp=sharing
 
 
