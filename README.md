@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 ### I'm Fernanda, Full-stack Developer, 
 <p align="justify"> I'm in a career transition, I'm studying Software Engineering and I'm a student on the Web Development course at Trybe. 
