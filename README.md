@@ -17,6 +17,6 @@ Thanks for your visit, follow me on Linkedin.
 See you later.
 
 #### My Portfolio: https://fernandatmarques.herokuapp.com/
-#### My curriculum: [[https://drive.google.com/file/d/1WQoi78MZwMMuVZgyEzWwMchPYJa94k3E/view?usp=sharing](https://drive.google.com/file/d/1xyAACRx4oJifU3JhReghVJAbwUZ3zvS_/view?usp=sharing)](https://drive.google.com/file/d/15D1kkuMUEaamZxvfGyStOoOOJJfdNxo-/view?usp=sharing)
+#### My curriculum: https://drive.google.com/file/d/15D1kkuMUEaamZxvfGyStOoOOJJfdNxo-/view?usp=sharing
 
 
