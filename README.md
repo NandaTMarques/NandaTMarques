@@ -1,19 +1,19 @@
 ## Hi 👋
 
-### I'm Fernanda, Full-stack Developer, 
-<p align="justify"> I'm in a career transition, I'm studying Software Engineering and I'm a student on the Web Development course at Trybe. 
+### I'm Fernanda, Fullstack Developer and I work as QA - Quality Assurance Analyst,
+<p align="justify">
 
-  I am communicative. I am resilient. I always try to empathize. I like challenges. I like to create things from scratch and solve problems. 
+  I am communicative. I am resilient. I always try to have empathy. I like challenges. I enjoy creating things from scratch and solving problems, developing tests and cooperating with the team.
 
-  I like to meet people and make new friends. In my free time I like to stay with my family, watch series and meet friends. 
+  I like meeting people and making new friends. In my free time I like to spend time with my family, watch series and meet friends.
 
-  Over 10 years as a Lawyer, I developed my capacity for teamwork, communication and critical thinking. 
+  Over almost 10 years as a Lawyer, I developed my ability to work as a team, communicate and think critically.
 
-  I want to become a great professional in the area of technology and represent women in this universe where women are in great need of representatives. 
-Every day I want to impact people more with my work, my welcoming way of being, my dedication, resilience and perseverance. 
+  I want to become a great professional in the technology area and represent women in this universe where women really need representatives.
+Every day I want to impact people more with my work, my welcoming way of being, my dedication, resilience and perseverance.
 
-  I finally found out what makes my eyes shine, what I like to do. Today I know that I am on the path that I always wanted to be. 
-Thanks for your visit, follow me on Linkedin. 
+  I finally discovered what makes my eyes sparkle, what I like to do. Today I know that I am on the path I always wanted to be.
+Thanks for your visit, follow me on Linkedin.
 See you later.
 
 #### My Portfolio: https://fernandatmarques.herokuapp.com/
